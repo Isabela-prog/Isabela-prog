@@ -1,5 +1,8 @@
-<h2 align="center">Olá :vulcan_salute:</br> Eu sou Isabela Santos, mas pode me chamar de Isa!</h2>
-<h3 align="center">Desenvolvedora Fullstack em constante evolução</h3></br>
+<img src="e7921fb37ce30a3476fa9295624390f9-removebg-preview.png" alt="Banner" width="80px" align = "left">
+<h3 align = "center">Olá :vulcan_salute:<br> Eu sou Isabela Santos, mas pode me chamar de Isa!</h3>
+<p align = "center">Desenvolvedora Fullstack em constante evolução</p>
+
+---
 
 <h3 align="left"> Sobre mim </h3>
 - Estudante de Engenharia de Software</br>
