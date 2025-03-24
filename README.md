@@ -1,6 +1,3 @@
-<p align="left">
-  <img src="Design sem nome.png" alt="Banner" width="300px">
-</p>
 <h2 align="center">Olá :vulcan_salute:</br> Eu sou Isabela Santos, mas pode me chamar de Isa!</h2>
 <h3 align="center">Desenvolvedora Fullstack em constante evolução</h3></br>
 
