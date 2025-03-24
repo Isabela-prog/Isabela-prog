@@ -33,7 +33,7 @@ Python, TypeScript, Android Studio e Docker</br>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Isabela-prog&theme=dracula)
 
-<h3 align="left"> Me conheça um pouquinho mais e entre em contato:</h3>
+<h3 align="left"> Me conheça mais e entre em contato:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-santos-837541351/)
 [![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=white)](https://jasper-cost-a08.notion.site/Isabela-Santos-17ba8a4d70648063b419d1442c3b1d5c?pvs=74)</br>
