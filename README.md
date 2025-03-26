@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="left"> Sobre mim </h3>
+<h4 align="left"> Sobre mim </h4>
 - Estudante de Engenharia de Software</br>
 - Espicializada em Java Fullstack pela Generation Brasil</br>
 - Desenvolvedora com um ano de experiência em threading de criptomoedas,<br>
@@ -12,7 +12,7 @@ Python, TypeScript, Android Studio e Docker</br>
 - Apaixonada por IA</br>
 - Movida por desafios e aprendizado contínuo</br>
 
-<h3 align="left"> Tecnologias e Ferramentas </h3>
+<h4 align="left"> Tecnologias e Ferramentas </h4>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,19 +24,18 @@ Python, TypeScript, Android Studio e Docker</br>
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h3 align="left"> Estatísticas do GitHub </h3>
+<h4 align="left"> Estatísticas do GitHub </h4>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isabela-prog&show_icons=true&theme=dracula)
 
-<h3 align="left"> Linguagens Mais Usadas </h3>
+<h4 align="left"> Linguagens Mais Usadas </h4>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabela-prog&layout=compact&theme=dracula)
 
-<h3 align="left">  Recentes Alterações </h3>
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Isabela-prog&theme=dracula)
-
-<h3 align="left"> Me conheça mais e entre em contato:</h3>
+<br>
+<h4 align="left"> Me conheça mais e entre em contato:</h4>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-santos-837541351/)
 [![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=white)](https://jasper-cost-a08.notion.site/Isabela-Santos-17ba8a4d70648063b419d1442c3b1d5c?pvs=74)</br>
