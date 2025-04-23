@@ -5,6 +5,7 @@
 ---
 
 <h4 align="left"> Sobre mim </h4>
+
 - Estudante de Engenharia de Software</br>
 - Espicializada em Java Fullstack pela Generation Brasil</br>
 - Desenvolvedora com um ano de experiência em threading de criptomoedas,<br>
